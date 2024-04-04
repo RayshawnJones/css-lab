@@ -1,0 +1,23 @@
+img {
+    border-radius: 5px 0 5px 0;
+    width: 100px;
+  }
+  h2 {
+    font-size: 18px;
+  }
+  body {
+    background-color: rgb(238, 245, 242);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: black;
+  }
+  a {
+    background-color: white;
+    font-size: 20px;
+    border-radius: 10px;
+    padding: 10px;
+    display: block;
+    text-align: center;
+    margin: 10px;
+    color: black
+    }
+
